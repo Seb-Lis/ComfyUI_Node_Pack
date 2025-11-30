@@ -1,4 +1,4 @@
-# SEB Custom Nodes for ComfyUI
+# Custom Nodes for ComfyUI
 
 A collection of utility nodes for image processing, workflow management, and generation metadata tracking.
 
